@@ -1,0 +1,16 @@
+#+TITLE: org-test
+  #+BEGIN_HTML
+         <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+  #+END_HTML
+
+* org-test
+for testing github-related org-mode questions
+
+
+* Some math stuff
+
+=(solve a b)= should return \(X\), from \(AX=B\).
+
+[[http://stackoverflow.com/questions/31534084/how-can-i-get-github-to-display-inline-math-in-readme-org-file][SO question]]
